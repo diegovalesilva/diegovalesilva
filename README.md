@@ -19,6 +19,9 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></span>
 
+### Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovalesilva&layout=compact&theme=dark">
 
 
 
