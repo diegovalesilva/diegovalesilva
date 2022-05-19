@@ -12,7 +12,7 @@
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"></span>
 <span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=python&logoColor=white"></span>
 
 ### Frameworks e Bibliotecas
 
