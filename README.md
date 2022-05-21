@@ -2,7 +2,7 @@
 
 ### About Me  
 
-⚛️ Physics teacher<br/>
+⚛️ Physics teacher and PHP programmer<br/>
 👨‍🎓 Student of Data Science with Python and Frontend Development with ReactJs<br/>
 
 ### Skills
